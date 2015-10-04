@@ -7,7 +7,10 @@ The proxy receives commands via HTTP and forwards them to the chromecast via the
 The [CastVideos-chrome](https://github.com/googlecast/CastVideos-chrome) reference example requires chrome and the chromecast plugin.
 The proxy makes it possible to run the example from any browser, by simply changing in the html files the link to the official chromecast API cast_sender.js (which uses the plugin), to a link to [proxycast_sender.js](https://github.com/sergiogiogio/proxycast_sender.js) which exposes the same API but uses the proxy.
 
-Illustration from Internet Explorer and Android Internet.
+Illustration:
+Internet Explorer          |  Android Internet
+:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/sergiogiogio/proxycast/master/screenshots/proxycast-ie.png)  |  ![](https://raw.githubusercontent.com/sergiogiogio/proxycast/master/screenshots/proxycast-android.png)
 
 # Installation
 
