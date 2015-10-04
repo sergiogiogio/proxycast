@@ -20,7 +20,7 @@ The below command installs the proxy as a module available to be used as part of
 npm install proxycast
 ```
 
-To run the CastVideos-chrome example mentioned below:
+To run the CastVideos-chrome example mentioned above:
  1. Run the below commands
 ```
 cd node_modules/proxycast/examples
