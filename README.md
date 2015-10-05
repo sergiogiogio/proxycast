@@ -21,7 +21,7 @@ npm install proxycast
 ```
 
 To run the CastVideos-chrome example mentioned above:
- 1. Run the below commands
+- Run the below commands
 ```
 cd node_modules/proxycast/examples
 # the below command downloads CastVideos-chrome and proxycast_sender.js and makes the necessary update to use the proxy instead of the plugin
@@ -29,7 +29,7 @@ cd node_modules/proxycast/examples
 # the below command opens the proxy as part of a simple webserver
 node server.js
 ```
- 2. Open http://hostname:8090/CastVideos-chrome/index.html on any browser
+ - Open http://hostname:8090/CastVideos-chrome/index.html on any browser
 
 
 # Objective
