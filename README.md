@@ -9,9 +9,9 @@ The proxy makes it possible to run the example from any browser, by simply chang
 
 ### Illustration:
 
-Internet Explorer | Android Internet
---- | ---
-![](https://raw.githubusercontent.com/sergiogiogio/proxycast/master/screenshots/proxycast-ie.png) | ![](https://raw.githubusercontent.com/sergiogiogio/proxycast/master/screenshots/proxycast-android.png)
+Internet Explorer | Android Internet | iOS Safari
+--- | --- | ---
+![](https://raw.githubusercontent.com/sergiogiogio/proxycast/master/screenshots/proxycast-ie.png) | ![](https://raw.githubusercontent.com/sergiogiogio/proxycast/master/screenshots/proxycast-android.png) | ![](https://raw.githubusercontent.com/sergiogiogio/proxycast/master/screenshots/proxycast-ios.png)
 
 # Installation
 
